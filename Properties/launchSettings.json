@@ -6,7 +6,7 @@
     },
     "MontyHallSim-True": {
       "commandName": "Project",
-      "commandLineArgs": "10000 false"
+      "commandLineArgs": "10000 true"
     }
   }
 }
