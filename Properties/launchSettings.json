@@ -1,6 +1,10 @@
 {
   "profiles": {
-    "MontyHallSim": {
+    "MontyHallSim-False": {
+      "commandName": "Project",
+      "commandLineArgs": "10000 false"
+    },
+    "MontyHallSim-True": {
       "commandName": "Project",
       "commandLineArgs": "10000 false"
     }
